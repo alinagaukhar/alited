@@ -1,5 +1,7 @@
 # What is this
 
+## Testing Github BIDI sync 1
+
 [alited](https://github.com/aplsimple/alited) stands for *a lite editor*.
 
 It satisfies most requirements of [Tcl Editors](https://wiki.tcl-lang.org/Tcl+Editors), adding its own features. It pretends to be the best of the [Tcl Editors](https://wiki.tcl-lang.org/Tcl+Editors).
